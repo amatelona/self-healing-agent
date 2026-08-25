@@ -1,4 +1,4 @@
-#  AI-Driven Automated Code Repair Agent
+#  Isolated AI Code Repair Agent for Secure CI/CD
 
 We’ve all been there: your code crashes in production, and you have to spend time digging through confusing terminal logs to find the typo or missing key. I wanted to build something better.
 
